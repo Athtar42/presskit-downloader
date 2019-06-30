@@ -1,4 +1,4 @@
-# presskit-for-season-of-mist-downloader
+Presskit Downloader
 A handy downloader for the [presskit](https://presskit.season-of-mist.com/) for Season of Mist Records
 
 Requirements:
