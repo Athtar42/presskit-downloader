@@ -7,5 +7,5 @@ Python 3.7
 
 You need to install Beautifulsoup and Requests before using this script
 
-'pip install requests'
-'pip install beautifulsoup4'
+`pip install requests`
+`pip install beautifulsoup4`
