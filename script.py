@@ -11,7 +11,7 @@ from urllib.parse import urlparse
 r = "https://presskit.season-of-mist.com/"
 
 bandname = input("请输入乐队名称(保证大小写正确和名称中的空格)：")
-ifInactive = input("该乐队是否在Inactve文件夹内(是请输入1，否请忽略)：")
+ifInactive = input("该乐队是否在Inactve文件夹内(是请输入1，否请直接回车)：")
 if ifInactive == "1":
 	print("Sorry 暂时不支持Inactive Bands, 请等我更新")
 	exit()
