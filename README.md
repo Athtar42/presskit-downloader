@@ -1,5 +1,5 @@
 # presskit-for-season-of-mist-downloader
-A handy downloader for the presskit for [Season of Mist Records](https://presskit.season-of-mist.com/)
+A handy downloader for the [presskit](https://presskit.season-of-mist.com/) for Season of Mist Records
 
 Requirements:
 Python 3.7
