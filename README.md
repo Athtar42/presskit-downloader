@@ -11,4 +11,4 @@ You need to install Beautifulsoup and Requests before using this script
 
 `pip install beautifulsoup4`
 
-Might has some problems if you aren't using Windows
+Might has some problems if you weren't using Windows
